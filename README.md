@@ -17,3 +17,9 @@
 
 ## Edge cases:
 - [ ] 1- If user dosent provide directory path it automatically use address of current working directy from where with help of Command Prompt or Terminal the command run.
+
+## Demo Video
+
+[![Demo Video](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/16NI4Jl2wUZ1wFh6IdtUWERIHNzugbugL/view?usp=sharing)
+
+Click the icon above or [click here](https://drive.google.com/file/d/16NI4Jl2wUZ1wFh6IdtUWERIHNzugbugL/view?usp=sharing) to watch the full demo on Google Drive.
