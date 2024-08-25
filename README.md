@@ -21,9 +21,12 @@
 ## Demo Video
 ## Demo Video
 
-[![Demo Video](https://img.icons8.com/ios-filled/50/000000/video.png)](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/16NI4Jl2wUZ1wFh6IdtUWERIHNzugbugL/view?usp=sharing){:target="_blank"}
+## Demo Video
 
-Click the icon above or [click here](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/16NI4Jl2wUZ1wFh6IdtUWERIHNzugbugL/view?usp=sharing){:target="_blank"} to watch the full demo on Google Drive.
+[![Demo Video](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/16NI4Jl2wUZ1wFh6IdtUWERIHNzugbugL/view?usp=sharing){:target="_blank"}
+
+Click the icon above or [click here](https://drive.google.com/file/d/16NI4Jl2wUZ1wFh6IdtUWERIHNzugbugL/view?usp=sharing){:target="_blank"} to watch the full demo on Google Drive.
+
 
 
 [![Demo Video](https://img.icons8.com/ios-filled/50/000000/video.png)](https://drive.google.com/file/d/16NI4Jl2wUZ1wFh6IdtUWERIHNzugbugL/view?usp=sharing)
